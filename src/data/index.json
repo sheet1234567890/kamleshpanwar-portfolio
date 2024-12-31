@@ -1,0 +1,228 @@
+{
+    "education":[
+      {
+        "course":"BE (Computer Science & Engineering)",
+        "intitute":"Medicaps Institute Of Technology & Management, Indore",
+        "session":"2007-2011",
+        "grade":"66.78%"
+      },
+      {
+        "course":"INTERMEDIATE (MP Board)",
+        "intitute":"Govt. H. S. S.Piplya Buzurg, Khargone",
+        "session":"2006-2007",
+        "grade":"78.22%"
+      },
+      {
+        "course":"MATRICULATION (MP Board)",
+        "intitute":"Govt. H. S. S.Piplya Buzurg, Khargone",
+        "session":"2004",
+        "grade":"76.22%"
+      }
+    ],
+    "professionalexperience":[
+      {
+        "role":"Technical Lead (guide and mentor offshore team)",
+        "project":"CRRAR (Centralized Revenue Register for Accounting of Revenues)",
+        "company":"FNF India Ltd.",
+        "description":"Requirement gathering, estimation, code reviews and development of stories. "
+      },
+      {
+        "role":"Full Stack Developer and mentor.",
+        "project":"Single Store Front Redesign ",
+        "company":"Infobeans Technology Pvt. Ltd. ",
+        "description":"As a full stack developer, I was involved in estimation, design and development. "
+      },
+      {
+        "role":"Full stack Developer",
+        "project":"Azure AD B2C Authentication with Single Store Front ",
+        "company":"Infobeans Technology Pvt. Ltd. ",
+        "description":"As a developer I am involved in estimation, design and development of the story"
+      },
+      {
+        "role":"Mentor and Developer ",
+        "project":"Support for theme-based dashboard ",
+        "company":"Intellicus Technologies Pvt. Ltd.",
+        "description":"Implemented SSO and integrated Single Store Front with client app using Azure AD B2C authentication. "
+      },
+      {
+        "role":"Full stack Developer",
+        "project":"Portal revamping and UI enhancement ",
+        "company":"Intellicus Technologies Pvt. Ltd. ",
+        "description":"I was UI developer in this project and worked closely with UI/UX designers and revamp the whole UI of portal we have used CSS, HTML, JavaScript and J Query in this projec"
+      },
+      {
+        "role":"Full stack Developer",
+        "project":"Workability Web Application ",
+        "company":"Infosys Ltd. ",
+        "description":"It was agile project, we used to code for a story assigned by scrum master and then after unit testing, we used to release it. "
+      },
+      {
+        "role":"Developer",
+        "project":"Patient Search Application",
+        "company":"Syntel Ltd. ",
+        "description":"Creating design documents, Development of MVC UI, Unit Testing, System."
+      }
+    ],
+
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Webflow Development",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      }
+    ],
+    "skilldata": [
+      {
+        "src": "./img/Languages/csharp.png",
+        "title": "C#",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/js.png",
+        "title": "Javascript",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/aspdotnet.jpg",
+        "title": "ASP .Net Core",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/angular.jpg",
+        "title": "Angular",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/html.png",
+        "title": "HTML",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/css.png",
+        "title": "CSS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/bootstrap.jpg",
+        "title": "Bootstrap",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/sql-server.png",
+        "title": "SQL Server",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/git.png",
+        "title": "Git",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/github.png",
+        "title": "Github",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/jquery.png",
+        "title": "jQuery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      }
+    ]
+    ,
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/homestay.png",
+        "title": " CRRAR (Centralized Revenue Register for Accounting of Revenues) ",  
+        "description": "Completely re-engineered the CRRAR web application system to adopt modern technologies and enhance customer satisfaction. This system is designed for administrators to manage revenue related tasks including handling contacts, orders and cash logs. The update ensures seamless operations and improved user experience for managing financial data. ",
+        "link": "https://github.com/kuldeeppanwar123/Culture-Living-MERN-Project"
+      },
+      {
+        "id": "2",
+        "src": "./img/helloworld.png",
+        "title": "Single Store Front Redesign ",
+        "description": "Revamped an existing web-based e-commerce platform to enhance durability, performance and user interface. The application supports online shopping and allows users to customize greeting cards, e-books and place. It is designed as multitenant platform, sharing single code base across different tenants.",
+        "link": "https://github.com/kuldeeppanwar123/Hello-World"
+      },
+      {
+        "id": "3",
+        "src": "./img/taskmanager.png",
+        "title": "Azure AD B2C Authentication with Single Store Front ",
+        "description": "Implemented SSO and integrated Single Store Front with client app using Azure AD B2C authentication. ",
+        "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
+      },
+      {
+        "id": "4",
+        "src": "./img/taskmanager.png",
+        "title": "Support for theme-based dashboard ",
+        "description": "This project was created to apply different themes on report widgets under dashboard. The widget consists of charts, maps and grids. While applying theme on dashboard all widgets will be transparent. The color of bars and legends of chart look very fancy from user point of view, and This is most attracting feature of the product and liked by the clients. ",
+        "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
+      },
+      {
+        "id": "5",
+        "src": "./img/taskmanager.png",
+        "title": "Portal revamping and UI enhancement ",
+        "description": "This project was created to change whole look and feel of the product, we have created new menu, which is having different sections like Home, Explorer, Navigation, Portal Info, Sign Out etc. and on click of these icons, corresponding sub menu bar slides out which contains links of the portal pages. ",
+        "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
+      },
+      {
+        "id": "6",
+        "src": "./img/taskmanager.png",
+        "title": "Workability Web Application ",
+        "description": "Workability is a web application used to submit claims for the absence, those claims are processed through WKAB Processor application and based on the rules it rejects or approve the claims and provide benefits to the client. ",
+        "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
+      },
+      {
+        "id": "7",
+        "src": "./img/taskmanager.png",
+        "title": "Patient Search Application ",
+        "description": "This is MVC based application which is used to search the details of patient like address, contact details, patient health details and ICD9, CPT and ICD10 based detail.",
+        "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
