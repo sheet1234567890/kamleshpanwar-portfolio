@@ -1,4 +1,4 @@
-import heroImg from "./img/Kp-bhaiya.png";
+import heroImg from "./img/Kp.png";
 import {  Typewriter } from 'react-simple-typewriter';
 import{ SiGeeksforgeeks, SiGithub, SiLeetcode, SiLinkedin }from 'react-icons/si'
 
