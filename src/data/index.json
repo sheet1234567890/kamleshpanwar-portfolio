@@ -145,6 +145,16 @@
         "src": "./img/Languages/jquery.png",
         "title": "jQuery",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/Azure.jpg",
+        "title": "Azure",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/restapi.jpg",
+        "title": "Rest Api",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
       }
     ]
     ,
@@ -158,7 +168,7 @@
       },
       {
         "id": "2",
-        "src": "./img/helloworld.png",
+        "src": "./img/singlestore.png",
         "title": "Single Store Front Redesign ",
         "description": "Revamped an existing web-based e-commerce platform to enhance durability, performance and user interface. The application supports online shopping and allows users to customize greeting cards, e-books and place. It is designed as multitenant platform, sharing single code base across different tenants.",
         "link": "https://github.com/kuldeeppanwar123/Hello-World"

@@ -16,9 +16,9 @@ const Aboutme = () => {
                 <div style={{alignSelf:"flex-start",marginLeft:"35px",width:"100%"}}>
                   <h3>Key Aspects</h3>
                   <ul style={{listStyle:"none","marginTop":"20px","paddingLeft":"0px"}}>
+                  <li><SlArrowRight/> <strong>Software Architect</strong></li><br />
                    <li><SlArrowRight/> <strong>Technical Lead</strong> </li><br />
-                   <li><SlArrowRight/> <strong>Full stack Developer & Mentor</strong></li><br />
-                   <li><SlArrowRight/> <strong>Software Architect</strong></li><br />
+                   <li><SlArrowRight/> <strong>Full stack Developement</strong></li><br />
                    <li><SlArrowRight/> <strong>Managing Database</strong> </li>
                   </ul>
                 </div>
