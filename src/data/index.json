@@ -175,35 +175,35 @@
       },
       {
         "id": "3",
-        "src": "./img/taskmanager.png",
+        "src": "./img/singlestore.png",
         "title": "Azure AD B2C Authentication with Single Store Front ",
         "description": "Implemented SSO and integrated Single Store Front with client app using Azure AD B2C authentication. ",
         "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
       },
       {
         "id": "4",
-        "src": "./img/taskmanager.png",
+        "src": "./img/singlestore.png",
         "title": "Support for theme-based dashboard ",
         "description": "This project was created to apply different themes on report widgets under dashboard. The widget consists of charts, maps and grids. While applying theme on dashboard all widgets will be transparent. The color of bars and legends of chart look very fancy from user point of view, and This is most attracting feature of the product and liked by the clients. ",
         "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
       },
       {
         "id": "5",
-        "src": "./img/taskmanager.png",
+        "src": "./img/singlestore.png",
         "title": "Portal revamping and UI enhancement ",
         "description": "This project was created to change whole look and feel of the product, we have created new menu, which is having different sections like Home, Explorer, Navigation, Portal Info, Sign Out etc. and on click of these icons, corresponding sub menu bar slides out which contains links of the portal pages. ",
         "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
       },
       {
         "id": "6",
-        "src": "./img/taskmanager.png",
+        "src": "./img/singlestore.png",
         "title": "Workability Web Application ",
         "description": "Workability is a web application used to submit claims for the absence, those claims are processed through WKAB Processor application and based on the rules it rejects or approve the claims and provide benefits to the client. ",
         "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
       },
       {
         "id": "7",
-        "src": "./img/taskmanager.png",
+        "src": "./img/singlestore.png",
         "title": "Patient Search Application ",
         "description": "This is MVC based application which is used to search the details of patient like address, contact details, patient health details and ICD9, CPT and ICD10 based detail.",
         "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
