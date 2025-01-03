@@ -8,15 +8,19 @@ const Contact = () => {
   const sendEmail = (e)=>{
     e.preventDefault();
     let emailPromise = emailjs.sendForm(
-      "service_x25rzfa",
-      'template_x2xtfok',
+      "service_s8zb8c8",
+      'template_elwj1md',
       form.current,
-      'yeSdKlO6GGDuQLbi9'
+      'TC2FI0Onz9WoGVKUL'
     )
 
     toast.promise(emailPromise , {
       loading:"Sending...",
-      success: <b>Sent successfully</b>,
+      success:(data)=>{
+      // Reset the form after successful submission
+      form.current.reset();
+      return <b>Sent successfully</b>
+    } ,
       error: <b>Failed</b>
     })
   }

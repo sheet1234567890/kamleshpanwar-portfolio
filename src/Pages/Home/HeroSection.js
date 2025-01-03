@@ -1,4 +1,4 @@
-import heroImg from "./img/templatee.png";
+import heroImg from "./img/Kp-bhaiya.png";
 import {  Typewriter } from 'react-simple-typewriter';
 import{ SiGeeksforgeeks, SiGithub, SiLeetcode, SiLinkedin }from 'react-icons/si'
 
@@ -34,7 +34,7 @@ const HeroSection = () => {
           <ul>
             <li>
               <a
-                href="https://www.linkedin.com/in/kuldeep-panwar-a4471b211/"
+                href="https://www.linkedin.com/in/kamlesh-panwar1988"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"

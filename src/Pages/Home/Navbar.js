@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-scroll';
-import logo from './img/Kuldeeplogo.png';
+import logo from './img/kamleshlogo.png';
 
 const Navbar = () => {
     
@@ -34,8 +34,8 @@ const Navbar = () => {
 
   return (
     <nav className={`navbar ${navActive?"active":""}`} style={{zIndex:"1"}}>
-      <div style={{marginLeft:"-40px"}}>
-       <Link to='heroSection' smooth={true} offset={-70} style={{cursor:"pointer"}}><img src={logo} alt="" /></Link>
+      <div style={{marginLeft:"-80px"}}>
+       <Link to='heroSection' smooth={true} offset={-70} style={{cursor:"pointer"}}><img src={logo} alt="" style={{height:"20px"}} /></Link>
       </div>
       <a className={`nav__hamburger ${navActive?"active":""}`} onClick={toggleNav}>
         <span className='nav__hamburger__line'></span>

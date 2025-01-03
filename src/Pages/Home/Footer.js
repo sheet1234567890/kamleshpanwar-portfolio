@@ -4,6 +4,7 @@ import { CiLocationOn } from 'react-icons/ci'
 import { AiOutlineMail } from 'react-icons/ai'
 import { BsFacebook, BsInstagram, BsPhone, BsTwitter, BsWhatsapp } from 'react-icons/bs'
 // import{Link} from 'react-router-dom'
+import logo from './img/kamleshlogo.png';
 
 function Footer() {
   return (
@@ -11,7 +12,8 @@ function Footer() {
       <div className="footer--link--container">
         <div>
           {/* <img src="./img/logofooter.png" alt="Logoipsum" /> */}
-          <Link to='heroSection' smooth={true} offset={-70} style={{cursor:"pointer"}}><img src="./img/logofooter.png" alt="Logoipsum" /></Link>
+          {/* <Link to='heroSection' smooth={true} offset={-70} style={{cursor:"pointer"}}><img src="./img/logofooter.png" alt="Logoipsum" /></Link> */}
+          <Link to='heroSection' smooth={true} offset={-70} style={{cursor:"pointer"}}><img src={logo} alt="" style={{height:"20px"}} /></Link>
         </div>
         <div className="footer--items">
           <ul>
@@ -82,7 +84,7 @@ function Footer() {
             </li>
           </ul>
         </div>
-        <div className="footer--social--icon">
+        {/* <div className="footer--social--icon">
           <ul>
             <li>
               <a
@@ -127,7 +129,7 @@ function Footer() {
               </a>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
