@@ -5,7 +5,7 @@ const Aboutme = () => {
   return (
     <section id='AboutMe' className='about--section'>
         <div className='about--section--img'>
-            <img src="./img/about-croped.png" alt="About me" />
+            <img src="./img/Kp.png" alt="About me" />
             {/* <img src="./img/kk.jpg" alt="About me" /> */}
         </div>
         <div className='hero--section--content-box about--section--box'>

@@ -78,9 +78,13 @@ const HeroSection = () => {
             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
             <br /> Dolorum, quas. Amet soluta assumenda cum?
           </p> */}
+           <button className=" btn btn-primary" onClick={()=>{window.open('https://drive.google.com/file/d/1hwoHDtCGvLJdwAa2PsjP8lc7wGdTtLd6/view?usp=drive_link','_blank')}}>Get Resume</button>
         </div>
-        <button className="btn btn-primary" onClick={()=>{window.open('https://drive.google.com/file/d/1hwoHDtCGvLJdwAa2PsjP8lc7wGdTtLd6/view?usp=drive_link','_blank')}}>Get Resume</button>
+       
       </div>
+
+
+
       <div className="hero--section--img">
         <img src={heroImg} alt="Hero Section" />
       </div>
